@@ -10,7 +10,7 @@
 	<link rel="stylesheet" href="https://2-22-4-dot-lead-pages.appspot.com/static/lp918/min/default_thank_you.css">
 	<!-- <script src="https://2-22-4-dot-lead-pages.appspot.com/static/lp918/min/jquery-1.9.1.min.js"></script> -->
 	<!-- <script src="https://2-22-4-dot-lead-pages.appspot.com/static/lp918/min/html5shiv.js"></script> -->
-	<meta http-equiv="refresh" content="3; url= https://kishenconsultants.zworktechnology.in/index.php"/>
+	<meta http-equiv="refresh" content="3; url= https://kishenconsultants.in/index.php"/>
 </head>
 <body>
   <div class="pageLoad">
