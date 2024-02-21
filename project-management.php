@@ -65,7 +65,7 @@
                 </ul>
             </div>
             <div class="col-4" style="padding-left: 90px;">
-                <h5 style="margin-top: 20px;">What We Construction</h5>
+                <h5 style="margin-top: 20px;">What We Construct</h5>
                 <ul class="one">
                     <li class="pts">1. Residential</li>
                     <li class="pts">2. Educational</li>

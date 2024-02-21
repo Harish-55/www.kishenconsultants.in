@@ -13,12 +13,12 @@ $mail-> isSMTP();
 
 $mail->Host = 'smtp.hostinger.com';  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'no-reply@kishenstructural.com';                 // SMTP username
-$mail->Password = 'Unique@2023';                           // SMTP password
+$mail->Username = 'no-reply@kishenconsultants.in';                 // SMTP username
+$mail->Password = 'Kishen@2023';                           // SMTP password
 $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 465;                                    // TCP port to connect to
 
-$mail->setFrom('no-reply@kishenstructural.com', 'Kishen Structural Consultants');
+$mail->setFrom('no-reply@kishenconsultants.in', 'Kishen Structural Consultants');
 $mail->addAddress('kishenpatrick@gmail.com');
 $mail->addBCC('testing.zworktechnology@gmail.com');
 
