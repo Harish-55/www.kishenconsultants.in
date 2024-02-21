@@ -3,6 +3,11 @@
     .one {
         margin-top: 30px;
     }
+
+    .pts {
+        margin-top: 10px;
+    }
+    
     @media screen and (max-width: 600px) {
         .col-8 {
             width: 100%;
@@ -47,7 +52,7 @@
                 <ul class="pt-5">
                     <li class="one">
                         1. Project management is the overall planning, coordination, and control of a project from beginning to completion.
-                        We design the project to meet the client’s requirement in order to produce a functionally and financially viable project.
+                        We manage the project to meet the client’s requirement in order to produce a functionally and financially viable project.
                     </li>
                     <li class="one">
                         2. Planning a project ensures the successful completion of the project with the best standard of quality construction for a lifetime with timely delivery.
@@ -59,10 +64,16 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-4">
-                <div class="text-center" style="margin-top: 90px;">
-                    <img src="img/service/4.jpeg">
-                </div>
+            <div class="col-4" style="padding-left: 90px;">
+                <h5 style="margin-top: 20px;">What We Construction</h5>
+                <ul class="one">
+                    <li class="pts">1. Residential</li>
+                    <li class="pts">2. Educational</li>
+                    <li class="pts">3. Institutional</li>
+                    <li class="pts">4. Commerical</li>
+                    <li class="pts">5. Industrial</li>
+                    <li class="pts">6. Storage</li>
+                </ul>
             </div>
         </div>
     </div>

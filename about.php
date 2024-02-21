@@ -34,7 +34,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="txt-cont">
-                    <h6 class="mt-20">About Kishen Structural</h6>
+                    <h6 class="mt-20">About Kishen Structural Consultants</h6>
                     <p class="mt-20">
                         Since its inception in 1992, Kishen Consultants has believed that customer satisfaction and quality is the mantra for success.
                     </p>
@@ -105,7 +105,7 @@
 
 <section class="services halfbg">
     <div class="background bg-img valign parallaxie" data-background="img/04.jpg" data-overlay-dark="7">
-        <a class="play-button vid" href="javascript:void(0)">
+        <a class="play-button vid" href="https://youtu.be/d46yg4WgCLE?feature=shared">
             <svg class="circle-fill">
                 <circle cx="43" cy="43" r="39" stroke="#fff" stroke-width=".5"></circle>
             </svg>

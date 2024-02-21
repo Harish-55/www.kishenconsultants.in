@@ -74,14 +74,14 @@
                 </ol>
             </div>
             <div class="col-4" style="padding-left: 90px;">
-                <h3 style="margin-top: 20px;">Buildings</h3>
+                <h5 style="margin-top: 20px;">What We Construction</h5>
                 <ul class="one">
-                    <li class="pts">*  Residential Buildings.</li>
-                    <li class="pts">*  Educational Buildings.</li>
-                    <li class="pts">*  Institutional Buildings.</li>
-                    <li class="pts">*  Commerical Buildings.</li>
-                    <li class="pts">*  Industrial Buildings.</li>
-                    <li class="pts">*  Storage Buildings.</li>
+                    <li class="pts">1. Residential</li>
+                    <li class="pts">2. Educational</li>
+                    <li class="pts">3. Institutional</li>
+                    <li class="pts">4. Commerical</li>
+                    <li class="pts">5. Industrial</li>
+                    <li class="pts">6. Storage</li>
                 </ul>
             </div>
         </div>

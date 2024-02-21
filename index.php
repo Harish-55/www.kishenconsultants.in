@@ -87,27 +87,56 @@
 
             <div class="col-lg-4">
                 <div class="item-bx bg-img wow fadeInUp" data-wow-delay=".3s" data-background="img/service/1.jpg">
-                    <span class="icon"><img src="img/service/struct.png" style="width: 120px;"></span>
-                    <h6 class="mb-20"><a href="structural-consultancy.php">Structural Consultancy</a></h6>
-                    <p style="font-size: 17px;"> Empower your projects with expert structural consultancy. From design to execution, we ensure stability and success. Elevate your constructions.</p>
+                    <span class="icon">
+                        <a href="structural-consultancy.php">
+                            <img src="img/service/struct.png" style="width: 120px;">
+                        </a>
+                    </span>
+                    <h6 class="mb-20">
+                        <a href="structural-consultancy.php">Structural Consultancy</a>
+                    </h6>
+                    <p style="font-size: 17px;">
+                        <a href="structural-consultancy.php">
+                            Empower your projects with expert structural consultancy. From design to execution, we ensure stability and success. Elevate your constructions.
+                        </a>
+                    </p>
                     <a href="structural-consultancy.php" class="more custom-font mt-30">Read More</a>
                 </div>
             </div>
 
+
             <div class="col-lg-4">
                 <div class="item-bx bg-img wow fadeInUp" data-wow-delay=".5s" data-background="img/service/2.jpg">
-                    <span class="icon flaticon-houses"></span>
-                    <h6 class="mb-20"><a href="civil-construction.php">Civil Construction</a></h6>
-                    <p style="font-size: 17px;">We are a specialist civil contracting company with extensive and sought after expertise in the civil engineering industry. </p>
+                    <a href="civil-construction.php">
+                        <span class="icon flaticon-houses"></span>
+                    </a>
+                    <h6 class="mb-20">
+                        <a href="civil-construction.php">Civil Construction</a>
+                    </h6>
+                    <p style="font-size: 17px;">
+                        <a href="civil-construction.php">
+                            We are a specialist civil contracting company with extensive and sought after expertise in the civil engineering industry.
+                        </a>
+                    </p>
                     <a href="civil-construction.php" class="more custom-font mt-30">Read More</a>
                 </div>
             </div>
 
             <div class="col-lg-4">
                 <div class="item-bx bg-img wow fadeInUp" data-wow-delay=".7s" data-background="img/service/3.jpg">
-                    <span class="icon"><img src="img/service/project.png" style="width: 80px;"></span>
-                    <h6 class="mb-20"><a href="project-management.php">Project Management</a></h6>
-                    <p style="font-size: 17px;">We design the project to meet the client’s requirement in order to produce a functionally and financially viable project.</p><br>
+                    <span class="icon">
+                        <a href="project-management.php">
+                            <img src="img/service/project.png" style="width: 80px;">
+                        </a>
+                    </span>
+                    <h6 class="mb-20">
+                        <a href="project-management.php">Project Management</a>
+                    </h6>
+                    <p style="font-size: 17px;">
+                        <a href="project-management.php">
+                            We manage the project to meet the client’s requirement in order to produce a functionally and financially viable project.
+                        </a>
+                    </p><br>
                     <a href="project-management.php" class="more custom-font mt-30">Read More</a>
                 </div>
             </div>
