@@ -106,6 +106,7 @@
                 <div class="social-icon">
                     <a href="https://www.facebook.com/people/Kishen-Structural-Consultants/100085893376353/?sfnsn=wiwspwa&mibextid=RUbZ1f" target="_blank"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.instagram.com/kishen_structural_consultants/" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/company/kishen-structural-consultants/" target="_blank"><i class="fab fa-linkedin"></i></a>
                 </div>
 
             </div>

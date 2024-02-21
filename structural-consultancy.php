@@ -51,6 +51,9 @@
             <div class="col-8">
                 <h3 style="margin-top: 30px;">Structural Consultancy</h3>
                 <li class="one">
+                    Structural Engineer Grade-1 in Trichy LPA In Structural design column.
+                </li>
+                <li class="one">
                     From the roots of the building to the growth of its branches, step by step, mm by mm is carried out by our expertized technical team making sure that the flowers bud out, just right.
                     We used original software like (STAAD Pro Advanced, RCDC FE, STAAD Foundation Advanced, RAM Steel designer and RAM Connection designer).
                 </li>
