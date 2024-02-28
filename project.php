@@ -425,70 +425,70 @@
                         <span class="close cursor" onclick="closeModal()">&times;</span>
                         <div class="modal-content">
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/1.webp" style="width:40%">
+                                <img src="img/portfolio/mas/1.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/2.webp" style="width:40%">
+                                <img src="img/portfolio/mas/2.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/3.webp" style="width:40%">
+                                <img src="img/portfolio/mas/3.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/4.webp" style="width:40%">
+                                <img src="img/portfolio/mas/4.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/5.webp" style="width:40%">
+                                <img src="img/portfolio/mas/5.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/6.webp" style="width:40%">
+                                <img src="img/portfolio/mas/6.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/7.webp" style="width:40%">
+                                <img src="img/portfolio/mas/7.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/8.webp" style="width:40%">
+                                <img src="img/portfolio/mas/8.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/9.webp" style="width:40%">
+                                <img src="img/portfolio/mas/9.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/10.webp" style="width:40%">
+                                <img src="img/portfolio/mas/10.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/11.webp" style="width:40%">
+                                <img src="img/portfolio/mas/11.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/12.webp" style="width:40%">
+                                <img src="img/portfolio/mas/12.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/13.webp" style="width:40%">
+                                <img src="img/portfolio/mas/13.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/14.webp" style="width:40%">
+                                <img src="img/portfolio/mas/14.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/15.webp" style="width:40%">
+                                <img src="img/portfolio/mas/15.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/16.webp" style="width:40%">
+                                <img src="img/portfolio/mas/16.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/17.webp" style="width:40%">
+                                <img src="img/portfolio/mas/17.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/18.webp" style="width:40%">
+                                <img src="img/portfolio/mas/18.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/19.webp" style="width:40%">
+                                <img src="img/portfolio/mas/19.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/20.webp" style="width:40%">
+                                <img src="img/portfolio/mas/20.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/21.webp" style="width:40%">
+                                <img src="img/portfolio/mas/21.webp" style="width:55%">
                             </div>
                             <div class="mySlides">
-                                <img src="img/portfolio/mas/22.webp" style="width:40%">
+                                <img src="img/portfolio/mas/22.webp" style="width:55%">
                             </div>
 
                             <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
