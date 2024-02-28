@@ -35,7 +35,7 @@
                 <div class="cont text-center">
                     <h1>Structural Consultancy</h1>
                     <div class="path">
-                        <a href="index.php">Home</a><span>/</span><a href="#0" class="active">Services</a>
+                        <a href="index.php">Home</a><span>/</span><a href="service.php">Services</a><span>/</span><a href="#0" class="active">Structural Consultancy</a>
                     </div>
                 </div>
             </div>

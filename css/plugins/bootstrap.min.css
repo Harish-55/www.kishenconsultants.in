@@ -168,7 +168,7 @@ a:hover {
   text-decoration: underline;
 }
 a:not([href]):not([tabindex]) {
-  color: inherit;
+  color: white;
   text-decoration: none;
 }
 a:not([href]):not([tabindex]):focus,

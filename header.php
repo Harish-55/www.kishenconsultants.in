@@ -88,8 +88,13 @@
                     <li class="nav-item">
                         <a class="nav-link" href="about.php">About</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="service.php">Services</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="service.php" data-toggle="dropdown">Services</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="structural-consultancy.php">Structural Consultancy</a>
+                            <a class="dropdown-item" href="civil-construction.php">Civil Construction</a>
+                            <a class="dropdown-item" href="project-management.php">Project Management</a>
+                        </div>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="project.php">Project</a>
