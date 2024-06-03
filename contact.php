@@ -42,8 +42,8 @@
                         <span class="icon pe-7s-mail-open"></span>
                         <div class="cont">
                             <h6 class="custom-font">Email Us</h6>
-                            <p><a href="mailto:kishenpatrick@gmail.com" style="margin-top: 10px;">kishenpatrick@gmail.com</a></p>
-                            <p><a href="mailto:info@kishenconsultants.com" style="margin-top: 10px;">info@kishenconsultants.com</a></p>
+                            <p><a href="mailto:k.kishenpatrick@gmail.com" style="margin-top: 10px;">k.kishenpatrick@gmail.com</a></p>
+                            <p><a href="mailto:info@kishenconsultants.in" style="margin-top: 10px;">info@kishenconsultants.in</a></p>
 
                         </div>
                     </div>

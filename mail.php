@@ -19,7 +19,7 @@ $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, 
 $mail->Port = 465;                                    // TCP port to connect to
 
 $mail->setFrom('no-reply@kishenconsultants.in', 'Kishen Structural Consultants');
-$mail->addAddress('kishenpatrick@gmail.com');
+$mail->addAddress('k.kishenpatrick@gmail.com');
 $mail->addBCC('testing.zworktechnology@gmail.com');
 
 $mail->isHTML(true);                                  // Set email format to HTML
