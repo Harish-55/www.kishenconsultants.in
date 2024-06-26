@@ -177,10 +177,10 @@
             <!-- gallery -->
             <div class="gallery twsty inf-lit full-width">
                 <div class="row">
-
+                <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/1.webp" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                     <img src="img/portfolio/mas/1.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Er.Sathymoorthy</h5>
                                 <span>Structural design</span><br>
@@ -188,10 +188,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/2.webp" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/2.webp" class="gallery-image" >
                             <div class="info mt-10">
                                 <h5>Mr. Chelladurai</h5>
                                 <span>Renovation, Construction, Architectural Drawings</span><br>
@@ -199,10 +200,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/3.webp" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/3.webp" class="gallery-image" >
                             <div class="info mt-10">
                                 <h5>Mr.Jeffrey</h5>
                                 <span>Construction, Architectural Elevation</span><br>
@@ -210,10 +212,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/4.webp" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/4.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Mr.Ragupathi</h5>
                                 <span>Construction, Architectural Elevation, Interior design</span><br>
@@ -221,10 +224,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/5.webp" style="width:100%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/5.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Mr.Antony</h5>
                                 <span>Civil Construction, Structural design</span><br>
@@ -232,10 +236,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/6.webp" style="width:100%" onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/6.webp" style="width:100%" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Mr.Peter</h5>
                                 <span>Civil Construction, Structural design</span><br>
@@ -243,10 +248,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/7.webp" style="width:100%" onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/7.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Truhomes Promoters</h5>
                                 <span>Civil Construction</span><br>
@@ -254,10 +260,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/8.webp" style="width:100%" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/8.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Truhomes Promoters</h5>
                                 <span>Civil Construction, Structural design</span><br>
@@ -265,10 +272,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/9.webp" style="width:100%" onclick="openModal();currentSlide(9)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/9.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Mrs. Asma</h5>
                                 <span>Civil Construction, Structural design</span><br>
@@ -276,10 +284,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/10.webp" style="width:100%" onclick="openModal();currentSlide(10)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/10.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Mr.Rafeek</h5>
                                 <span>Civil Construction</span><br>
@@ -287,10 +296,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/11.webp" style="width:100%" onclick="openModal();currentSlide(11)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/11.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Mrs. Kavitha</h5>
                                 <span>Civil Construction</span><br>
@@ -298,10 +308,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/12.webp" style="width:100%" onclick="openModal();currentSlide(12)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/12.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Mr. Unoose Ayoob</h5>
                                 <span>Bhavish Architect</span><br>
@@ -309,10 +320,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/13.webp" style="width:100%" onclick="openModal();currentSlide(13)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/13.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Mr. Balaji</h5>
                                 <span>Civil Construction</span><br>
@@ -320,10 +332,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/14.webp" style="width:100%" onclick="openModal();currentSlide(14)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/14.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Residence</h5>
                                 <span>Gowtham Srinath Architects</span><br>
@@ -331,10 +344,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/15.webp" style="width:100%" onclick="openModal();currentSlide(15)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/15.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Dalmia Gateway</h5>
                                 <span>Pragadeesh Architect, Studio Think</span><br>
@@ -342,10 +356,13 @@
                             </div>
                         </div>
                     </div>
+</a>
 
+
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/16.webp" style="width:100%" onclick="openModal();currentSlide(16)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/16.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Apartment</h5>
                                 <span>Vedha Kumaran Architect</span><br>
@@ -353,10 +370,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/17.webp" style="width:100%" onclick="openModal();currentSlide(17)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/17.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Dr. Justin Residence</h5>
                                 <span>Vishnu and Bhavish Architect</span><br>
@@ -364,10 +382,11 @@
                             </div>
                         </div>
                     </div>
-
+</a>
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/18.webp" style="width:100%" onclick="openModal();currentSlide(18)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/18.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Chandran Residence</h5>
                                 <span>Gayathri Architect, Sarah Design Scape</span><br>
@@ -375,10 +394,13 @@
                             </div>
                         </div>
                     </div>
+</a>
 
+
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/19.webp" style="width:100%" onclick="openModal();currentSlide(19)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/19.webp" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Gowranga Illam</h5>
                                 <span>Karthick Architect</span><br>
@@ -386,10 +408,13 @@
                             </div>
                         </div>
                     </div>
+</a>
 
+
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/20.webp" style="width:100%; height: 450px;" onclick="openModal();currentSlide(20)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/20.webp" style="width:100%; height: 450px;" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Residence</h5>
                                 <span>Vedha Kumaran Architect</span><br>
@@ -397,10 +422,13 @@
                             </div>
                         </div>
                     </div>
+</a>
 
+
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img">
-                            <img src="img/portfolio/mas/21.webp" style="width:100%; height:450px;" onclick="openModal();currentSlide(21)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/21.webp" style="width:100%; height:450px;" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Eden Garden</h5>
                                 <span>Sekkizhar Architect</span><br>
@@ -408,10 +436,12 @@
                             </div>
                         </div>
                     </div>
+</a>
 
+                    <a href="project-view.php">
                     <div class="items theaters three-column mt-50">
                         <div class="item-img bg-img" style="height: 300px; width: 500px;">
-                            <img src="img/portfolio/mas/22.webp" style="width:100%;" onclick="openModal();currentSlide(22)" class="hover-shadow cursor">
+                            <img src="img/portfolio/mas/22.webp" style="width:100%;" class="gallery-image"  >
                             <div class="info mt-10">
                                 <h5>Residence</h5>
                                 <span>Ar.K K.Karthick, ADS Architecture</span><br>
@@ -419,136 +449,16 @@
                             </div>
                         </div>
                     </div>
+                    </a>
 
 
-                    <div id="myModal" class="modal">
-                        <span class="close cursor" onclick="closeModal()">&times;</span>
-                        <div class="modal-content">
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/1.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/2.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/3.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/4.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/5.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/6.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/7.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/8.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/9.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/10.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/11.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/12.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/13.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/14.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/15.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/16.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/17.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/18.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/19.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/20.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/21.webp" style="width:55%">
-                            </div>
-                            <div class="mySlides">
-                                <img src="img/portfolio/mas/22.webp" style="width:55%">
-                            </div>
 
-                            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-                            <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-                            <div class="caption-container">
-                                <p id="caption"></p>
-                            </div>
-
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
 </section>
 
 <!-- ==================== End works ==================== -->
-
-<script>
-    function openModal() {
-        document.getElementById("myModal").style.display = "block";
-    }
-
-    function closeModal() {
-        document.getElementById("myModal").style.display = "none";
-    }
-
-    var slideIndex = 1;
-    showSlides(slideIndex);
-
-    function plusSlides(n) {
-        showSlides(slideIndex += n);
-    }
-
-    function currentSlide(n) {
-        showSlides(slideIndex = n);
-    }
-
-    function showSlides(n) {
-        var i;
-        var slides = document.getElementsByClassName("mySlides");
-        var dots = document.getElementsByClassName("demo");
-        var captionText = document.getElementById("caption");
-        if (n > slides.length) {
-            slideIndex = 1
-        }
-        if (n < 1) {
-            slideIndex = slides.length
-        }
-        for (i = 0; i < slides.length; i++) {
-            slides[i].style.display = "none";
-        }
-        for (i = 0; i < dots.length; i++) {
-            dots[i].className = dots[i].className.replace(" active", "");
-        }
-        slides[slideIndex - 1].style.display = "block";
-        dots[slideIndex - 1].className += " active";
-        captionText.innerHTML = dots[slideIndex - 1].alt;
-    }
-</script>
 
 
 <?php include('footer.php') ?>
