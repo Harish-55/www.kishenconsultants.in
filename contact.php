@@ -32,8 +32,7 @@
                         <span class="icon pe-7s-phone"></span>
                         <div class="cont">
                             <h6 class="custom-font">Call Us</h6>
-                            <p><a href="tel:+919791208370" style="margin-top: 10px;">+91 9791208370</a></p>
-                            <p><a href="tel:+919843880757" style="margin-top: 10px;">+91 9843880757</a></p>
+                             <p><a href="tel:+919843880757" style="margin-top: 10px;">+91 9843880757</a></p>
                         </div>
                     </div>
                 </div>
@@ -42,7 +41,7 @@
                         <span class="icon pe-7s-mail-open"></span>
                         <div class="cont">
                             <h6 class="custom-font">Email Us</h6>
-                            <p><a href="mailto:k.kishenpatrick@gmail.com" style="margin-top: 10px;">k.kishenpatrick@gmail.com</a></p>
+                            <p><a href="mailto:k.kishenpatrick@gmail.com" style="margin-top: 10px;">kkishenpatrick@gmail.com</a></p>
                             <p><a href="mailto:info@kishenconsultants.in" style="margin-top: 10px;">info@kishenconsultants.in</a></p>
 
                         </div>
